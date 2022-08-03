@@ -26,7 +26,8 @@ var getActiveElement = function (element = document.activeElement) {
   var event = new Event('change');
   two64El.dispatchEvent(event);
 
-})();```
+})();
+```
 
 To use the bookmarklet:
 
